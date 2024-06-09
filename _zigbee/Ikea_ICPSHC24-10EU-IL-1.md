@@ -17,7 +17,7 @@ link3:
 ---
 
 ### Pairing
-To factory reset the TRADFRI drivers use a small pin or paperclip to push the reset button once.
+To factory reset the TRADFRI drivers use a small pin or paperclip to push the reset button for a few seconds.
 
 
 
